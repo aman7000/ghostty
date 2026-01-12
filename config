@@ -1,21 +1,24 @@
 font-family =  Monoid Nerd Font
 #font-family = Iosevka Nerd Font
 # font-family = SFMono Nerd Font 
-font-size = 12
-theme = GruvboxDarkHard
+font-size = 13
+theme = gruvbox-material-hard-dark
 shell-integration-features = no-cursor,sudo,no-title
 cursor-style = block
 adjust-cell-height = 35%
-# background-opacity = 0.96
+background-opacity = 0.96
+maximize = true
 
+macos-option-as-alt = true
 mouse-hide-while-typing = true
 mouse-scroll-multiplier = 2
-
+title = " "
+macos-titlebar-proxy-icon = hidden
+macos-titlebar-style = hidden
 window-padding-balance = true 
 window-save-state = always
-macos-titlebar-style=transparent
 window-colorspace = "display-p3"
-background = 1C2021
+background = 121416
 # foreground = d4be98
 
 # keybindings
